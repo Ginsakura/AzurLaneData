@@ -23055,6 +23055,83 @@
     "title": "清茶氤氳",
     "type": 1
   },
+  "2771": {
+    "condition": "解鎖「綻放的鐵藍薔薇」任務1",
+    "icon": "memory_saidelici",
+    "id": 2771,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "story": "ZHANFANGDETIELANQIANGWEI1",
+    "subtitle": "",
+    "title": "塞德利茨不對勁？",
+    "type": 1
+  },
+  "2772": {
+    "condition": "解鎖「綻放的鐵藍薔薇」任務2",
+    "icon": "memory_saidelici",
+    "id": 2772,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "story": "ZHANFANGDETIELANQIANGWEI2",
+    "subtitle": "",
+    "title": "塞德利茨式邏輯",
+    "type": 1
+  },
+  "2773": {
+    "condition": "解鎖「綻放的鐵藍薔薇」任務3",
+    "icon": "memory_saidelici",
+    "id": 2773,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "story": "ZHANFANGDETIELANQIANGWEI3",
+    "subtitle": "",
+    "title": "塞德利茨的朋友們",
+    "type": 1
+  },
+  "2774": {
+    "condition": "解鎖「綻放的鐵藍薔薇」任務4",
+    "icon": "memory_saidelici",
+    "id": 2774,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "story": "ZHANFANGDETIELANQIANGWEI4",
+    "subtitle": "",
+    "title": "塞德利茨的想法",
+    "type": 1
+  },
+  "2775": {
+    "condition": "解鎖「綻放的鐵藍薔薇」任務5",
+    "icon": "memory_saidelici",
+    "id": 2775,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "story": "ZHANFANGDETIELANQIANGWEI5",
+    "subtitle": "",
+    "title": "遼闊的草原遼闊的心",
+    "type": 1
+  },
+  "2776": {
+    "condition": "解鎖「綻放的鐵藍薔薇」任務6",
+    "icon": "memory_saidelici",
+    "id": 2776,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "story": "ZHANFANGDETIELANQIANGWEI6",
+    "subtitle": "",
+    "title": "塞德利茨向前衝",
+    "type": 1
+  },
+  "2777": {
+    "condition": "解鎖「綻放的鐵藍薔薇」任務7",
+    "icon": "memory_saidelici",
+    "id": 2777,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "story": "ZHANFANGDETIELANQIANGWEI7",
+    "subtitle": "",
+    "title": "不一樣的塞德利茨",
+    "type": 1
+  },
   "2781": {
     "condition": "完成「翩若飛仙」任務",
     "icon": "memory_pianruofeixian",
@@ -23064,6 +23141,116 @@
     "story": "PIANRUOFEIXIAN1",
     "subtitle": "",
     "title": "翩若飛仙 ",
+    "type": 1
+  },
+  "2820": {
+    "condition": "開始戰役「奏響鳶尾之歌」",
+    "icon": "memory_zouxiangyuanweizhige",
+    "id": 2820,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "story": "ZOUXIANGYUANWEIZHIGE1",
+    "subtitle": "",
+    "title": "預兆",
+    "type": 1
+  },
+  "2821": {
+    "condition": "進入 SP1",
+    "icon": "memory_zouxiangyuanweizhige",
+    "id": 2821,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "story": "ZOUXIANGYUANWEIZHIGE2",
+    "subtitle": "",
+    "title": "流亡",
+    "type": 1
+  },
+  "2822": {
+    "condition": "第一次通關 SP1",
+    "icon": "memory_zouxiangyuanweizhige",
+    "id": 2822,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "story": "ZOUXIANGYUANWEIZHIGE3",
+    "subtitle": "",
+    "title": "試探",
+    "type": 1
+  },
+  "2823": {
+    "condition": "進入 SP2",
+    "icon": "memory_zouxiangyuanweizhige",
+    "id": 2823,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "story": "ZOUXIANGYUANWEIZHIGE4",
+    "subtitle": "",
+    "title": "故人",
+    "type": 1
+  },
+  "2824": {
+    "condition": "發現 SP2 BOSS",
+    "icon": "memory_zouxiangyuanweizhige",
+    "id": 2824,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "story": "ZOUXIANGYUANWEIZHIGE5",
+    "subtitle": "",
+    "title": "增援",
+    "type": 1
+  },
+  "2825": {
+    "condition": "第一次通關 SP2",
+    "icon": "memory_zouxiangyuanweizhige",
+    "id": 2825,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "story": "ZOUXIANGYUANWEIZHIGE6",
+    "subtitle": "",
+    "title": "破碎",
+    "type": 1
+  },
+  "2826": {
+    "condition": "進入 SP3",
+    "icon": "memory_zouxiangyuanweizhige",
+    "id": 2826,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "story": "ZOUXIANGYUANWEIZHIGE7",
+    "subtitle": "",
+    "title": "獨行",
+    "type": 1
+  },
+  "2827": {
+    "condition": "第一次通關 SP3",
+    "icon": "memory_zouxiangyuanweizhige",
+    "id": 2827,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "story": "ZOUXIANGYUANWEIZHIGE8",
+    "subtitle": "",
+    "title": "光",
+    "type": 1
+  },
+  "2828": {
+    "condition": "第二次通關 SP3",
+    "icon": "memory_zouxiangyuanweizhige",
+    "id": 2828,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "story": "ZOUXIANGYUANWEIZHIGE9",
+    "subtitle": "",
+    "title": "新的未來",
+    "type": 1
+  },
+  "2829": {
+    "condition": "第三次通關 SP3",
+    "icon": "memory_zouxiangyuanweizhige",
+    "id": 2829,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "story": "ZOUXIANGYUANWEIZHIGE10",
+    "subtitle": "",
+    "title": "等待",
     "type": 1
   },
   "3011": {

@@ -46,7 +46,7 @@
   },
   "10117": {
     "name": "Lafite.82",
-    "sculpture": "lafei",
+    "sculpture": "lafeiII_3",
     "ship_group": 10117
   },
   "10124": {
@@ -229,6 +229,11 @@
     "sculpture": "beianpudunII",
     "ship_group": 10303
   },
+  "10305": {
+    "name": "Houston",
+    "sculpture": "xiusidunII_2",
+    "ship_group": 10305
+  },
   "10306": {
     "name": "INDI_LOVE",
     "sculpture": "botelan",
@@ -278,6 +283,16 @@
     "name": "Bremerton",
     "sculpture": "bulaimodun",
     "ship_group": 10324
+  },
+  "10327": {
+    "name": "Louisville",
+    "sculpture": "luyisiweier",
+    "ship_group": 10327
+  },
+  "10401": {
+    "name": "Constellation",
+    "sculpture": "xingzuo",
+    "ship_group": 10401
   },
   "10501": {
     "name": "Nevada",
@@ -339,6 +354,11 @@
     "sculpture": "lanliII",
     "ship_group": 10701
   },
+  "10702": {
+    "name": "Lexington",
+    "sculpture": "liekexingdun",
+    "ship_group": 10702
+  },
   "10703": {
     "name": "SisterSara",
     "sculpture": "salatuojia",
@@ -356,7 +376,7 @@
   },
   "10707": {
     "name": "CarVesGAL6",
-    "sculpture": "dahuangfengII",
+    "sculpture": "dahuangfeng",
     "ship_group": 10707
   },
   "10708": {
@@ -389,6 +409,11 @@
     "sculpture": "pulinsidun",
     "ship_group": 10723
   },
+  "10730": {
+    "name": "San Jacinto",
+    "sculpture": "shenghaxintuo",
+    "ship_group": 10730
+  },
   "10738": {
     "name": "Shangri-La",
     "sculpture": "xianggelila",
@@ -396,7 +421,7 @@
   },
   "10802": {
     "name": "G_Albacore",
-    "sculpture": "daqinghuayu_3",
+    "sculpture": "daqinghuayu",
     "ship_group": 10802
   },
   "10803": {
@@ -409,10 +434,20 @@
     "sculpture": "sheshuiyu_2",
     "ship_group": 10806
   },
+  "10808": {
+    "name": "Flasher",
+    "sculpture": "songdiao",
+    "ship_group": 10808
+  },
   "11201": {
     "name": "Vestal",
     "sculpture": "zaoshen",
     "ship_group": 11201
+  },
+  "11802": {
+    "name": "Guam",
+    "sculpture": "guandao",
+    "ship_group": 11802
   },
   "19902": {
     "name": "GA@ColaLove",
@@ -423,6 +458,11 @@
     "name": "Anchorage",
     "sculpture": "ankeleiqi",
     "ship_group": 19903
+  },
+  "19904": {
+    "name": "Kearsarge",
+    "sculpture": "qiershazhi_2",
+    "ship_group": 19904
   },
   "20101": {
     "name": "ThornyA",
@@ -491,13 +531,18 @@
   },
   "20135": {
     "name": "Janus",
-    "sculpture": "Yanusi_3",
+    "sculpture": "yanusi_5",
     "ship_group": 20135
   },
   "20136": {
     "name": "Hero",
     "sculpture": "yingxiong",
     "ship_group": 20136
+  },
+  "20203": {
+    "name": "Ajax",
+    "sculpture": "ajiakesi",
+    "ship_group": 20203
   },
   "20204": {
     "name": "Dido_Doll",
@@ -961,7 +1006,7 @@
   },
   "30182": {
     "name": "FlowerMoon",
-    "sculpture": "huayue_4",
+    "sculpture": "huayue",
     "ship_group": 30182
   },
   "30183": {
@@ -973,6 +1018,11 @@
     "name": "Puuta",
     "sculpture": "liangyue_3",
     "ship_group": 30184
+  },
+  "30186": {
+    "name": "Kazagumo",
+    "sculpture": "fengyun_4",
+    "ship_group": 30186
   },
   "30187": {
     "name": "Wakatsuki",
@@ -1334,6 +1384,11 @@
     "sculpture": "bailong_2",
     "ship_group": 39905
   },
+  "39906": {
+    "name": "Shimanto",
+    "sculpture": "siwanshi_2",
+    "ship_group": 39906
+  },
   "40101": {
     "name": "L.Maaß",
     "sculpture": "z1",
@@ -1599,6 +1654,16 @@
     "sculpture": "lupuleixite",
     "ship_group": 49907
   },
+  "49908": {
+    "name": "Felix Schultz",
+    "sculpture": "feilikesishuerci_2",
+    "ship_group": 49908
+  },
+  "49909": {
+    "name": "Hindenburg",
+    "sculpture": "xingdengbao_2",
+    "ship_group": 49909
+  },
   "50101": {
     "name": "Anshan1",
     "sculpture": "anshan",
@@ -1646,12 +1711,12 @@
   },
   "50207": {
     "name": "HaiTien",
-    "sculpture": "haitian_2",
+    "sculpture": "haitian",
     "ship_group": 50207
   },
   "50208": {
     "name": "HaiChi",
-    "sculpture": "haiqi_2",
+    "sculpture": "haiqi",
     "ship_group": 50208
   },
   "50601": {
@@ -2083,6 +2148,11 @@
     "name": "GascogneT8",
     "sculpture": "jiasikenie",
     "ship_group": 99901
+  },
+  "99902": {
+    "name": "Flandre",
+    "sculpture": "fulandeer_2",
+    "ship_group": 99902
   },
   "960001": {
     "name": "Royal Fortune",
@@ -2735,6 +2805,20 @@
     1100006,
     1100003,
     1100005,
-    1100004
+    1100004,
+    11802,
+    10401,
+    10702,
+    10808,
+    10730,
+    20203,
+    10327,
+    10305,
+    19904,
+    49909,
+    39906,
+    49908,
+    99902,
+    30186
   ]
 }

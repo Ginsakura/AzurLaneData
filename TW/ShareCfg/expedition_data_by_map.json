@@ -7686,7 +7686,7 @@
     "level_limit": 1,
     "map": 1480001,
     "name": "破曉冰華·上篇|| ||CHAPTER EX||E.X.",
-    "on_activity": 40561,
+    "on_activity": 4626,
     "title": "EX",
     "type": 4,
     "ui_type": 1,
@@ -7730,7 +7730,7 @@
     "level_limit": 1,
     "map": 1480002,
     "name": "破曉冰華·下篇|| ||CHAPTER EX||E.X.",
-    "on_activity": 40561,
+    "on_activity": 4626,
     "title": "EX",
     "type": 4,
     "ui_type": 1,
@@ -7774,7 +7774,7 @@
     "level_limit": 1,
     "map": 1480011,
     "name": "破曉冰華·上篇|| ||CHAPTER EX||E.X.",
-    "on_activity": 40561,
+    "on_activity": 4626,
     "title": "EX",
     "type": 5,
     "ui_type": 1,
@@ -7818,7 +7818,7 @@
     "level_limit": 1,
     "map": 1480012,
     "name": "破曉冰華·下篇|| ||CHAPTER EX||E.X.",
-    "on_activity": 40561,
+    "on_activity": 4626,
     "title": "EX",
     "type": 5,
     "ui_type": 1,
@@ -7862,7 +7862,7 @@
     "level_limit": 1,
     "map": 1480025,
     "name": "破曉冰華·SP|| ||CHAPTER EX||E.X.",
-    "on_activity": 40561,
+    "on_activity": 4626,
     "title": "EX",
     "type": 8,
     "ui_type": 1,
@@ -7906,7 +7906,7 @@
     "level_limit": 1,
     "map": 1480026,
     "name": "破曉冰華·EX|| ||CHAPTER EX||E.X.",
-    "on_activity": 40561,
+    "on_activity": 4626,
     "title": "EX",
     "type": 8,
     "ui_type": 1,
@@ -11794,6 +11794,50 @@
     "on_activity": 4607,
     "title": "EX",
     "type": 8,
+    "ui_type": 1,
+    "uifx": ""
+  },
+  "1730001": {
+    "anchor": "",
+    "ani_controller": "",
+    "ani_name": "Map_1730001",
+    "animtor": 1,
+    "bg": "Map_1730001",
+    "bgm": "level-french2",
+    "bind_map": 0,
+    "cloud_suffix": "",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": "",
+    "enter_story": "ZOUXIANGYUANWEIZHIGE1",
+    "guide_id": "",
+    "level_limit": 1,
+    "map": 1730001,
+    "name": "奏響鳶尾之歌|| ||CHAPTER SP||S.P.",
+    "on_activity": 4940,
+    "title": "SP",
+    "type": 3,
     "ui_type": 1,
     "uifx": ""
   },

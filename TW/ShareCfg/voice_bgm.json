@@ -167,6 +167,12 @@
     "special_bgm": "",
     "time": ""
   },
+  "BeachGamePage": {
+    "bgm": "main-SeaAndSun",
+    "default_bgm": "main-SeaAndSun",
+    "special_bgm": "",
+    "time": ""
+  },
   "BeachGuardGameView": {
     "bgm": "bar-soft",
     "default_bgm": "bar-soft",
@@ -341,6 +347,24 @@
     "special_bgm": "",
     "time": ""
   },
+  "DeXiMainPage": {
+    "bgm": "story-midgard",
+    "default_bgm": "story-midgard",
+    "special_bgm": "",
+    "time": ""
+  },
+  "DeXiQianShaoReRePtPage": {
+    "bgm": "bsm-6",
+    "default_bgm": "bsm-6",
+    "special_bgm": "",
+    "time": ""
+  },
+  "DexiV4PtPage": {
+    "bgm": "story-midgard",
+    "default_bgm": "story-midgard",
+    "special_bgm": "",
+    "time": ""
+  },
   "DexiV5MainPage": {
     "bgm": "theme-bismark-reborn",
     "default_bgm": "theme-bismark-reborn",
@@ -422,6 +446,12 @@
   "HololiveMedalCollectionView": {
     "bgm": "holo-inochi-inst",
     "default_bgm": "holo-inochi-inst",
+    "special_bgm": "",
+    "time": ""
+  },
+  "HuttenV2LoginPage": {
+    "bgm": "bsm-4",
+    "default_bgm": "bsm-4",
     "special_bgm": "",
     "time": ""
   },
@@ -570,8 +600,8 @@
     "time": ""
   },
   "NewMainScene": {
-    "bgm": "main-christmas",
-    "default_bgm": "main-christmas",
+    "bgm": "main",
+    "default_bgm": "main",
     "special_bgm": "",
     "time": ""
   },
@@ -624,8 +654,14 @@
     "time": ""
   },
   "NewShopsScene": {
-    "bgm": "battle-ucnf",
-    "default_bgm": "battle-ucnf",
+    "bgm": "story-midgard",
+    "default_bgm": "story-midgard",
+    "special_bgm": "",
+    "time": ""
+  },
+  "NewYear24LoginPage": {
+    "bgm": "theme-SeaAndSun-image",
+    "default_bgm": "theme-SeaAndSun-image",
     "special_bgm": "",
     "time": ""
   },
@@ -896,6 +932,12 @@
   "SkinMagazinePage1": {
     "bgm": "theme-warmwinter-daily",
     "default_bgm": "theme-warmwinter-daily",
+    "special_bgm": "",
+    "time": ""
+  },
+  "SkinMagazinePage4": {
+    "bgm": "story-dazy-style",
+    "default_bgm": "story-dazy-style",
     "special_bgm": "",
     "time": ""
   },

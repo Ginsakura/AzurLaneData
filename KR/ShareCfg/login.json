@@ -1214,6 +1214,15 @@
     "op_play": 1,
     "op_time": "stop"
   },
+  "44": {
+    "bgm": "",
+    "date": "stop",
+    "id": 44,
+    "login_cri": "",
+    "login_static": "login",
+    "op_play": 0,
+    "op_time": "stop"
+  },
   "3001": {
     "bgm": "",
     "date": [
@@ -1310,6 +1319,7 @@
     41,
     42,
     43,
+    44,
     3001
   ]
 }
